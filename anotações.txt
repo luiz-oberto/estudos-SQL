@@ -1,0 +1,6 @@
+# aula 649: Mais sobre o SQL
+## para um maior entendimento do SQL, acesse o link:
+
+https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/
+
+palavras-chaves: DQL (Data Query Language) e DML (Data Manipulation Language)
